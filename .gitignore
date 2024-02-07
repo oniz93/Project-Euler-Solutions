@@ -2,3 +2,4 @@
 .DS_Store
 rust/target
 rust/src/problem_01
+rust/src/problem_02
